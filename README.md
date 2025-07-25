@@ -34,16 +34,8 @@ This Power BI project provides a comprehensive performance analysis of High Clou
 ## 📁 Files Included
 
 - HighCloudAirlines_Jan2025.pbix – Power BI report
-- DataSources/ – Folder containing sample/raw datasets (if available)
+- DataSources/ – Folder containing sample/raw datasets
 - README.md – Project documentation
-
----
-
-## 🚀 How to Use
-
-1. Open the .pbix file using Power BI Desktop.
-2. Refresh the data or load new data if provided.
-3. Explore the pages to view insights by route, satisfaction, and operational KPIs.
 
 ---
 
@@ -51,6 +43,6 @@ This Power BI project provides a comprehensive performance analysis of High Clou
 
 For questions or feedback, reach out at:
 
-📧 [palekarpoonam192@gmail.com](mailto:palekarpoonam192@gmail.com)
+📧 [shivgankeyur115@gmail.com](mailto:shivgankeyur115@gmail.com)
 
 ---
