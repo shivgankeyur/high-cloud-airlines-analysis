@@ -17,9 +17,11 @@ This Power BI project provides a comprehensive performance analysis of High Clou
 
 ## ⚙ Tools & Technologies
 
+-*Excel*:Dashboard creation and cleaning data
 - *Power BI*: Dashboard creation and data modeling
 - *DAX (Data Analysis Expressions)*: Advanced calculations and custom metrics
 - *Data Modeling*: Integrated multiple datasets (e.g., flight data, customer surveys)
+- *PowerPoint*: For Project Prsentation
 
 ---
 
@@ -33,8 +35,9 @@ This Power BI project provides a comprehensive performance analysis of High Clou
 
 ## 📁 Files Included
 
-- HighCloudAirlines_Jan2025.pbix – Power BI report
-- DataSources/ – Folder containing sample/raw datasets
+- Airlines.pbix – Power BI report
+- Airlines Excel.xlsx – Excel report
+- Airlinesppt.pptx - Project Presentation
 - README.md – Project documentation
 
 ---
